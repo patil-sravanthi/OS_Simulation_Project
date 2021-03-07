@@ -1,1 +1,1 @@
-This a simulation project for a CPU Sheduler
+This a simulation project for a CPU Scheduler
